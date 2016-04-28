@@ -2,6 +2,6 @@
 using namespace std;
 
 int main() {
-    cout << "1145148101919";
+    cout << "^q^";
     return 0;
 }
