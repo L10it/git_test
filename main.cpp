@@ -2,6 +2,6 @@
 using namespace std;
 
 int main() {
-    cout << "^q^";
+    cout << "hoge";
     return 0;
 }
